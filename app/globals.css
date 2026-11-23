@@ -990,6 +990,10 @@
   grid-row: span 2;
 }
 .pf-dialog {
+  position: fixed;
+  inset: 0;
+  margin: auto;
+  height: fit-content;
   width: min(1240px, 96vw);
   max-width: none;
   max-height: 96vh;

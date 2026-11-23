@@ -42,9 +42,9 @@ export const portfolio: PortfolioProject[] = [
     ],
   },
   {
-    slug: "top-lucky-knife-set",
-    brand: "Top Lucky",
-    product: "6-piece kitchen knife set with storage block",
+    slug: "kitchen-knife-set",
+    brand: "Kitchen Knife Set",
+    product: "6-piece knife set with scissors and storage block",
     category: "Home & Kitchen",
     work: "A+ content · 5 modules",
     summary:
@@ -77,8 +77,8 @@ export const portfolio: PortfolioProject[] = [
   },
   {
     slug: "manual-citrus-juicer",
-    brand: "Manual Citrus Juicer",
-    product: "Aluminium hand-press fruit juicer",
+    brand: "Citrus Juicer",
+    product: "Manual hand-press fruit juicer",
     category: "Home & Kitchen",
     work: "A+ content · 5 modules",
     summary:
